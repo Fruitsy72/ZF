@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Zachary Fruits"
-  avatar : "/IMG_5750.JPG"
+  avatar : "/IMG_5750.JPG"size=150
   bio    : "On this webpage you can see some of the projects I have been associated with."
   links:
     - label: "LinkedIn"
