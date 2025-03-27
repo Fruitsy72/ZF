@@ -4,7 +4,7 @@ categories:
   - PNNL
 tags:
   - Post Formats
-  - standard
+  - research
 ---
 
 I spent part of my Summer in 2023 at Pacific Northwest National Laboratory. Using Google Colab I wrote and modified python code to run the Box Model. This model is used to
