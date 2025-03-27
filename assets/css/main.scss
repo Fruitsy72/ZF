@@ -22,31 +22,43 @@ html {
     @include breakpoint($x-large) {
       font-size: 18px; // change to whatever
     }
-  }
+}
 
-
-@media (min-width: 200em) {
-
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 200px;
-  height: 200px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 200px;
-    border-radius: 10%;
+/* Larger screens */
+@media (min-width: 80em) {
+  .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 200px;
+    height: 200px;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      display: block;
+      width: auto;
+      height: auto;
+    }
+
+    img {
+      max-width: 200px;
+      border-radius: 10%;
+
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
     }
   }
 }
+
+/* Mobile screens */
+@media (max-width: 600px) {
+  .author__avatar {
+    width: 120px !important; // Increase size for mobile
+    height: 120px !important;
+  }
+
+  .author__avatar img {
+    max-width: 120px !important;
+    height: auto;
+  }
 }
