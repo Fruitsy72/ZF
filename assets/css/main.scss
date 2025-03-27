@@ -30,8 +30,8 @@ html {
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 900px;
-  height: 900px;
+  width: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
     display: block;
@@ -40,8 +40,8 @@ html {
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 10%;
 
     @include breakpoint($large) {
       padding: 5px;
