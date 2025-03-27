@@ -30,8 +30,8 @@ html {
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 80000000px;
-  height: 80000000px;
+  width: 900px;
+  height: 900px;
 
   @include breakpoint($large) {
     display: block;
