@@ -4,7 +4,7 @@ categories:
   - Research Paper
 tags:
   - Post Formats
-  - standard
+  - publication
 ---
 
 https://repository.library.noaa.gov/view/noaa/52404
