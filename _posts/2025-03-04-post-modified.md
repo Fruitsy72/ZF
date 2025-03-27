@@ -4,7 +4,7 @@ categories:
   - TAMU
 tags:
   - Post Formats
-  - standard
+  - research
 ---
 
 During my time at Texas A&M I used a dust tagging technique noted by Shi et al. (2022) and (2023). I chose my area of research as the Southern Great Plains.
