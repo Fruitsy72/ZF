@@ -4,7 +4,7 @@ categories:
   - CIWRO
 tags:
   - Post Formats
-  - standard
+  - research
 ---
 
 During the second semester of my Junior Year at the University of Oklahoma I was accepted to be an undergraduate research assistant. I began my research with the Cooperative
