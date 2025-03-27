@@ -4,7 +4,7 @@ categories:
   - Flogistix
 tags:
   - Post Formats
-  - standard
+  - research
 ---
 
 My Senior Year at the University of Oklahoma I was an intern at Flogistix. They are an Oil and Gas company located in Oklahoma City, OK and their main objective is to
